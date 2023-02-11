@@ -10,4 +10,5 @@ The answer to research questions based on research results:
 1) The model shows mental health disorders are more prevalent in people with poor and fair general health, while people with good general health are less likely to experience mental health problems. 
 2) There is hardly any association between the total amount of fruit and vegetable per day and the risk of having diabetes. 
 3) The results also showed that diabetes, high blood pressure, and age are essential attributes to use when classifying people with or without being overweight/obese.
+
 More detailed analysis and results are presented in the report.
